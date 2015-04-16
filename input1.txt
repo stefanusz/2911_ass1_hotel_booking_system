@@ -1,0 +1,24 @@
+// TESTING FOR BOOK and PRINT 
+
+
+Hotel Belagio 100 2
+Hotel Belagio 101 1
+
+
+
+Hotel Saturn 104 2
+
+Hotel Apollo 120 1
+
+Hotel Hercules 111 3
+Hotel Hercules 121 1
+
+Book Gladys Jan 10 8 single 1 triple 1
+Book Lee Jan 10 3 single 1
+Book Neil Feb 27 5 double 1
+
+
+Print Belagio
+Print Saturn
+Print Apollo
+Print Hercules

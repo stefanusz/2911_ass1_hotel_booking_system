@@ -1,0 +1,25 @@
+//TESTING FOR CHANGE OF A RESERVATION.
+
+Hotel Belagio 100 2
+Hotel Belagio 101 1
+
+
+
+Hotel Saturn 104 2
+
+Hotel Apollo 120 1
+
+Hotel Mooonbeam 890 2
+Hotel Mooonbeam 1000 1
+
+Book Gladys Jan 10 8 double 1
+Book Lee Jan 10 3 single 1
+Book Neil Jan 10 5 double 1
+
+Change Lee Quality 100 Jan 25 2 Jan 27 3 double
+Change Lee Belagio 101 Jan 10 3 Jan 15 10 double
+
+Print Belagio
+Print Saturn
+Print Apollo
+Print Mooonbeam

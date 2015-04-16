@@ -1,0 +1,8 @@
+Hercules 121 111 
+Belagio 101 
+Belagio 100 
+Belagio 100 Jan 27 2 Neil
+Belagio 100 Feb 1 3 Neil
+Belagio 101 Jan 10 3 Lee
+Hercules 111 Jan 10 8 Gladys
+Hercules 121 Jan 10 8 Gladys

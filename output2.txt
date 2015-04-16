@@ -1,0 +1,9 @@
+Belagio 100 
+Belagio 101 
+Saturn 104 
+Reservation cancelled
+Cancellation rejected
+Belagio 100 Jan 10 2 Gladys
+Belagio 100 Feb 14 4 Gladys
+Belagio 101 Jan 10 3 Lee
+Saturn 104 Jan 10 5 Neil

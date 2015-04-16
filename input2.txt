@@ -1,0 +1,21 @@
+//TESTING FOR CANCEL OF A RESERVATION.
+
+Hotel Belagio 100 2
+Hotel Belagio 101 1
+
+
+
+Hotel Saturn 104 2
+
+Hotel Apollo 120 1
+
+Book Gladys Jan 10 8 double 1
+Book Lee Jan 10 3 single 1
+Book Neil Jan 10 5 double 1
+
+Cancel Gladys Belagio 100 Jan 12 2
+Cancel Gladys Belagio 100 Jan 22 2
+
+Print Belagio
+Print Saturn
+Print Apollo
